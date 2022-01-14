@@ -1,11 +1,11 @@
 ---
-title: Happiness Index
-prev_section: how-roil-works.html
-next_section: email-conventions.html
+title: How Red Hat Open Innovation Labs works
+prev_section: what-is-rh-open-innovation-labs.html
+next_section: happiness-index.html
 ---
 
-Happiness Index
-===============
+How We Work
+===========
 
 Lorem ipsum dolor sit amet
 --------------------------

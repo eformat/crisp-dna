@@ -431,7 +431,7 @@ body {
   font-size: 15px;
   line-height: 1.5;
   background: #fafafa url(../images/body-bg.jpg) 0 0 repeat;
-  font-family: 'Helvetica Neue', Helvetica, Arial, serif;
+  font-family: "RedHatText",Overpass,"Open Sans",Helvetica,Arial,sans-serif;
   font-weight: 400;
   color: #666;
 }
@@ -450,8 +450,8 @@ a:hover {
 header {
   padding-top: 40px;
   padding-bottom: 40px;
-  font-family: 'Architects Daughter', 'Helvetica Neue', Helvetica, Arial, serif;
-  background: #2e7bcf url(../images/header-bg.jpg) 0 0 repeat-x;
+  font-family: "RedHatText",Overpass,"Open Sans",Helvetica,Arial,sans-serif;
+  background: #CC0000 url(../images/header-bg.jpg) 0 0 repeat-x;
   border-bottom: solid 1px #275da1;
 }
 
@@ -473,7 +473,7 @@ header h1 a, header h1 a:hover {
 
 header h2 {
   font-size: 26px;
-  color: #9ddcff;
+  color: #f0ecec;
   font-weight: normal;
   line-height: 1.3;
   width: 540px;
@@ -533,7 +533,7 @@ a.button {
   color: #fff;
   padding-left: 68px;
   padding-top: 22px;
-  font-family: 'Architects Daughter', 'Helvetica Neue', Helvetica, Arial, serif;
+  font-family: "RedHatText",Overpass,"Open Sans",Helvetica,Arial,sans-serif;
 }
 a.button small {
   display: block;
@@ -621,7 +621,7 @@ form {
 /* GENERAL ELEMENT TYPE STYLES */
 
 #main-content h1 {
-  font-family: 'Architects Daughter', 'Helvetica Neue', Helvetica, Arial, serif;
+  font-family: "RedHatText",Overpass,"Open Sans",Helvetica,Arial,sans-serif;
   font-size: 2.8em;
   font-weight: normal;
   letter-spacing: -1px;
@@ -639,7 +639,7 @@ form {
 }
 
 #main-content h2 {
-  font-family: 'Architects Daughter', 'Helvetica Neue', Helvetica, Arial, serif;
+  font-family: "RedHatText",Overpass,"Open Sans",Helvetica,Arial,sans-serif;
   font-size: 22px;
   font-weight: bold;
   margin-bottom: 8px;
@@ -654,7 +654,7 @@ form {
 }
 
 #main-content h3 {
-  font-family: 'Architects Daughter', 'Helvetica Neue', Helvetica, Arial, serif;
+  font-family: "RedHatText",Overpass,"Open Sans",Helvetica,Arial,sans-serif;
   font-size: 18px;
   font-weight: bold;
   margin-top: 24px;
@@ -671,7 +671,7 @@ form {
 }
 
 #main-content h4 {
-  font-family: 'Architects Daughter', 'Helvetica Neue', Helvetica, Arial, serif;
+  font-family: "RedHatText",Overpass,"Open Sans",Helvetica,Arial,sans-serif;
   font-size: 15px;
   font-weight: bold;
   margin-bottom: 8px;
@@ -687,7 +687,7 @@ h4:before {
 }
 
 #main-content h5 {
-  font-family: 'Architects Daughter', 'Helvetica Neue', Helvetica, Arial, serif;
+  font-family: "RedHatText",Overpass,"Open Sans",Helvetica,Arial,sans-serif;
   font-size: 14px;
   margin-bottom: 8px;
   color: #474747;
@@ -701,7 +701,7 @@ h5:before {
 }
 
 #main-content h6 {
-  font-family: 'Architects Daughter', 'Helvetica Neue', Helvetica, Arial, serif;
+  font-family: "RedHatText",Overpass,"Open Sans",Helvetica,Arial,sans-serif;
   font-size: .8em;
   margin-bottom: 8px;
   color: #474747;
@@ -914,7 +914,7 @@ footer a:hover {
 .section-nav a, .section-nav span {
     color: #fff;
     font-size: 16px;
-    font-family: 'Architects Daughter', 'Helvetica Neue', Helvetica, Arial, serif;
+    font-family: "RedHatText",Overpass,"Open Sans",Helvetica,Arial,sans-serif;
     text-transform: uppercase;
     text-shadow: 0 1px 3px rgba(0,0,0,.5);
     font-weight: 700;
@@ -924,7 +924,7 @@ footer a:hover {
     border-radius: 5px;
     /* border: 1px solid #333; */
     box-shadow: 0 1px 3px rgba(0,0,0,.3), inset 0 1px 1px rgba(255,255,255,.5);
-    background-color: #2a7fda; /* was #767676 */
+    background-color: #cc0000;
   }
 
 .section-nav .next, .section-nav .prev {
